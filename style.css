@@ -32,7 +32,8 @@ a{
     color: #555;
 }
 p{
-    color:#555
+    color:#4b2302;
+    font-weight: 750;
 }
 .container{
     max-width: 1300px;
