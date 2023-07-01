@@ -438,7 +438,7 @@ input:focus{
     margin: 80px auto;
 }
 table{
-    width: 110%;
+    width: 100%;
     border-collapse: collapse;
 }
 .cart-info{
