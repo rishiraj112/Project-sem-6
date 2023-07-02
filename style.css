@@ -486,3 +486,15 @@ td:last-child{
 th:last-child{
     text-align: right;
 }
+
+/* -----------for About section page----------- */
+#about {
+    font-weight: 500;
+    margin: 10px 50px 100px 50px;
+    padding: 50px;
+    border: dashed 3px;
+    background-color: #b3f0f0;
+    align-items: center;
+    word-spacing: auto;
+    
+}
