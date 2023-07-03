@@ -500,7 +500,13 @@ th:last-child{
 
 
 
-/* ----------contact------ */
+/* ----------contact info------ */
+
+
+
+
+
+
 
 .contact{
     position: relative;
@@ -524,6 +530,8 @@ th:last-child{
     font-weight: 300px;
     /* color: #fff; */
 }
+
+    /* ye comment wala se footer bigad  rha hai */
 
 /* .container{
     width: 100%;
