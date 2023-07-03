@@ -222,11 +222,12 @@ small{
 
 
 .footer{
-    max-width: 1300px;
+    /* max-width: 1300px; */
     background: #000;
     color: #8a8a8a;
     font-size: 14px;
     padding: 30px 0 20px 10px ;
+    margin-right: 0;
 }
 .footer p{
     color: #8a8a8a;
@@ -511,7 +512,7 @@ th:last-child{
 .contact{
     position: relative;
     min-height: 100vh;
-    padding: 50px 100px;
+    padding: 50px 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -578,8 +579,8 @@ th:last-child{
 
 }
 .ContactForm{
-    width: 60%;
-    padding: 40px;
+    width: 90;
+    padding: 50px;
 
 }
 .ContactForm h2{
