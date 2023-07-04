@@ -508,14 +508,14 @@ th:last-child{
 .contact{
     position: relative;
     min-height: 100vh;
-    padding: 50px 50px;
+    padding: 30px 50px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .contact .contnet{
-    max-width: 800px;
+    max-width: 1000px;
     text-align: center;
 }
 .contact .contnet h2{
@@ -549,7 +549,7 @@ th:last-child{
 
 .contacts .ContactInfo .box{
     position: relative;
-    padding: 20px 0;
+    padding: 30px 0;
     display: flex;
 }
 .contacts .ContactInfo .box .icon{
